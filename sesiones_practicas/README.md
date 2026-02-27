@@ -1,1 +1,1 @@
-# Carpeta del curso
+Carpeta de sesiones practicas
